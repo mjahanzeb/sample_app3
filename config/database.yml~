@@ -6,7 +6,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: db/develop
+  database: db/develop.pgres
   pool: 5
   username: postgres
   password: postgres
